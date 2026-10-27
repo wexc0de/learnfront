@@ -2,3 +2,11 @@
     $primary: coral,
     $title-color: purple,
 );
+@import "bulma/css/bulma.css";
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111111;
+  font-family: Arial, Helvetica, sans-serif;
+}

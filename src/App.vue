@@ -109,11 +109,6 @@ function toggleItem(id) {
   color: black;
 }
 
-.main-title {
-  font-size: 27px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
 
 .form-box {
   border: 1px solid #aaa;
@@ -130,27 +125,6 @@ function toggleItem(id) {
   margin-bottom: 5px;
 }
 
-.form-group input,
-.form-group select {
-  padding: 6px;
-  border: 1px solid #aaa;
-  background: white;
-  color: black;
-}
-
-button {
-  padding: 6px 12px;
-  background: #ddd;
-  border: 1px solid #888;
-  color: black;
-  cursor: pointer;
-}
-
-.lists {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
 
 .lists > * {
   flex: 1;

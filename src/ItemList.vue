@@ -79,10 +79,6 @@ const priorityText = {
   align-items: center;
 }
 
-.done {
-  text-decoration: line-through;
-  color: gray;
-}
 
 .priority-badge {
   padding: 2px 5px;
@@ -90,17 +86,11 @@ const priorityText = {
   color: black;
 }
 
-.high {
-  background: #ffcccc;
-}
 
 .medium {
   background: #fff0b3;
 }
 
-.low {
-  background: #ccffcc;
-}
 
 .empty-text {
   color: gray;
